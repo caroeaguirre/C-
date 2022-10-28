@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651616540 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listass\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1651616523 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listass\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1651616251 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listass\lista.h
+
