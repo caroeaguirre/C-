@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1652723105 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"listasDato.h"
+
+1650981845 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1652723047 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\dato.h
+	"persona.h"
+
+1652724247 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\listasdato.c
+	<stdio.h>
+	<stdlib.h>
+	"listasDato.h"
+
+1650981965 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\listasdato.h
+	"dato.h"
+
+1652723054 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\persona.h
+
+1652723068 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1649798177 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\repasotda\dispositivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dispositivo.h"
+	"persona.h"
+
+1649370119 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\repasotda\dispositivo.h
+
+1649702877 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\repasotda\persona.h
+
+1652722558 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\dispositivo.h
+
+1652722558 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\listasdato\dispositivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dispositivo.h"
+	"persona.h"
+
