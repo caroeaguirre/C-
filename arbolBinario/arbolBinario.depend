@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653604302 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\arbolbinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolBinario.h"
+
+1653935950 source:c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\arbolbinario\arbolbinario.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolBinario.h"
+
+1652363082 c:\users\carolina\onedrive\documentos\segundo a—o\algoritmos y estructura de datos\codeblocks 2.0\arbolbinario\arbolbinario.h
+
